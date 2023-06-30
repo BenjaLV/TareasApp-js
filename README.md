@@ -2,7 +2,7 @@
 
 To Do App Built with Vanilla JavaScript
 
-To run the app make a clone, then in the terminal run ```npm install``` to use webPack
+To run the app make a clone, then in the terminal run ```npm install``` 
 
 And then to construct the build
 
